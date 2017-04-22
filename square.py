@@ -12,7 +12,6 @@ def draw_square():
             ank.right(90)
         ank.right(10)
 
-
     window.exitonclick()
 
 
